@@ -9,3 +9,4 @@ Une ligne par personne.
 - Sophie
 - Nicolas Ngo
 - Jean Gaudart
+- Jean-Charles Dufour
