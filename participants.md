@@ -9,3 +9,5 @@ Une ligne par personne.
 - Sophie
 - Nicolas Ngo
 - Jean Gaudart
+- Jordi Landier
+
