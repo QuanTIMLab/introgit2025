@@ -1,4 +1,5 @@
 # Participants
+
 Ajoutez votre nom ci-dessous.
 Une ligne par personne.
 
@@ -7,3 +8,4 @@ Une ligne par personne.
 - Roch Giorgi
 - Sophie
 - Nicolas Ngo
+- Jean Gaudart
